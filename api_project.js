@@ -1,1 +1,19 @@
-define({  "name": "Unify API",  "version": "0.0.1",  "description": "This is the documentation of the Unify API",  "title": "Unify API",  "url": "http://localhost:8080",  "sampleUrl": "http://localhost:8080",  "template": {    "withCompare": true,    "withGenerator": true  },  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2015-09-17T17:21:01.330Z",    "url": "http://apidocjs.com",    "version": "0.13.1"  }});
+define({
+  "name": "Unify API",
+  "version": "0.0.1",
+  "description": "This is the documentation of the Unify API",
+  "title": "Unify API",
+  "url": "http://localhost:8080",
+  "sampleUrl": "http://localhost:8080",
+  "template": {
+    "withCompare": true,
+    "withGenerator": true
+  },
+  "apidoc": "0.2.0",
+  "generator": {
+    "name": "apidoc",
+    "time": "2015-09-18T03:47:26.730Z",
+    "url": "http://apidocjs.com",
+    "version": "0.13.1"
+  }
+});
